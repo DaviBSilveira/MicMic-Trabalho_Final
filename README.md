@@ -25,7 +25,7 @@ Por fim, será desenvolvido um aplicativo simples para controle do dispositivo v
 
 ## Observações
 - SEMANA 1: A ideia inicial preocupava-se apenas com o controle por meio da conexão bluetooth, logo a sugestão de controle via internet ainda não foi implementada. Por conseguinte serão estudados os materiais necessários e a maneira de integração destes com o projeto inicial no decorrer das próximas semanas. Assim, atualizações serão realizadas posteriormente na descrição do projeto. 
-- SEMANA 2: Após pesquisas relacionadas ao controle do arduino via internet, foi descartada a ideia inicial de controle pelo bluetooth. Dessa forma, o "Ojetivo", "Materiais utilizados" e a "Breve descrição do desenvolvimento do projeto" foram atualidos para comportarem a alteração do projeto.
+- SEMANA 2: Após pesquisas relacionadas ao controle do arduino via internet, foi descartada a ideia inicial de controle pelo bluetooth. Dessa forma, o "Objetivo", "Materiais utilizados" e a "Breve descrição do desenvolvimento do projeto" foram atualidos para comportarem a alteração do projeto.
 
 ## Referências
 - https://www.robocore.net/tutoriais/modulo-rele-arduino - Módulo Relé Arduino
