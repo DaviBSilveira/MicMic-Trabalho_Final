@@ -25,10 +25,11 @@ Por fim, será desenvolvido um aplicativo simples para controle do dispositivo v
 
 ## Observações
 - SEMANA 1: A ideia inicial preocupava-se apenas com o controle por meio da conexão bluetooth, logo a sugestão de controle via internet ainda não foi implementada. Por conseguinte serão estudados os materiais necessários e a maneira de integração destes com o projeto inicial no decorrer das próximas semanas. Assim, atualizações serão realizadas posteriormente na descrição do projeto. 
-- SEMANA 2: Após pesquisas relacionadas ao controle do arduino via internet, foi descartada a ideia inicial de controle pelo bluetooth. Dessa forma, o "Objetivo", "Materiais utilizados" e a "Breve descrição do desenvolvimento do projeto" foram atualidos para comportarem a alteração do projeto.
-
+- SEMANA 2: Após pesquisas relacionadas ao controle do arduino via internet, foi descartada a ideia inicial de controle pelo bluetooth. Dessa forma, o "Objetivo", "Materiais utilizados" e a "Breve descrição do desenvolvimento do projeto" foram atualizados para comportarem a alteração do projeto.
+- SEMANA 3: Depois de uma tentativa sem sucesso de conectar o celular ao arduino utilizando o notebook como conector "ponte-a-ponte", foi posto como objetivo encontrar alternativas para que o próprio arduino receba as informações vindas do celular. 
 ## Referências
 - https://www.robocore.net/tutoriais/modulo-rele-arduino - Módulo Relé Arduino
 - https://www.youtube.com/watch?v=IUVoIux3oNo&t=385s - Leitura de Sensor - App inventor Ethernet Shield
 - https://www.youtube.com/watch?v=4Vc5Rmuu7kc - AppInventor y Arduino Ethernet
 - https://www.youtube.com/watch?v=r15dVlsg2wA - Luminárias controladas por Arduino e Ethernet Shield via App Android
+- https://www.youtube.com/watch?v=roR5kMZO2fc - Arduino Ethernet y Arduino Commander
