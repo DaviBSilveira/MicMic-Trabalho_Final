@@ -15,6 +15,7 @@ Desenvolver um disposivo de automação através do controle de energia elétric
 - Ethernet Shield;
 - Relé;
 - Fios de energia, para conectar o aparelho na energia;
+- Lâmpada com conector USB
 
 ## Breve descrição do desenvolvimento do projeto
 Primeiramente será realizada a montagem das conexões entre os módulos e o Arduino da maneira como está na imagem "Montagem Ethernet.png" nesse mesmo repositório. O código utilizado para conexão e controle desses dispositivos esta salvo no arquivo "código" e ele será desenvolvido em linguagem C voltada para Arduino.
