@@ -22,7 +22,10 @@ Primeiramente será realizada a montagem das conexões entre os módulos e o Ard
 
 Outrossim, para realizar o controle de ligar e desligar dos dispositivos conectados será adaptado um conector de pinos macho e fêmea no qual irá correr a corrente de energia vinda da tomada e, pelo relé, será controlada a função ligar ou deligar dessa corrente.
 
-Por fim, será desenvolvido um aplicativo simples para controle do dispositivo via internet.
+Usando MIT App Inventor foi criado um aplicativo para controlar as funções de "liga" e "desliga" do protótipo.
+O notebook em que o arduino está conectado pelo módulo ethernet deve estar na conectado no mesmo Wi-fi que o celular. 
+Após feita a conexão aplicativo e arduino, o protótipo esta pronto para o uso. 
+
 
 ## Observações
 - SEMANA 1: A ideia inicial preocupava-se apenas com o controle por meio da conexão bluetooth, logo a sugestão de controle via internet ainda não foi implementada. Por conseguinte serão estudados os materiais necessários e a maneira de integração destes com o projeto inicial no decorrer das próximas semanas. Assim, atualizações serão realizadas posteriormente na descrição do projeto. 
