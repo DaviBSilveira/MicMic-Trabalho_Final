@@ -2,7 +2,7 @@
 
 ## Integrantes
 - 759030 - Camila Isabel de Souza Bueno - Icamomila (username GitHub)
-- 769170 - Davi Batista Silveira -  (username GitHub)
+- 769170 - Davi Batista Silveira -  DaviBSilveira (username GitHub)
 - 769184 - José Matheus Queiroz Rodrigues -  (username GitHub)
 - 769185 - Lucas Gabriel Bassan de Morais - LucasGB11 (username GitHub)
 - 770153 -  Matheus Bolson - matheusbolson (username GitHub)
@@ -32,8 +32,9 @@ Por fim, será desenvolvido um aplicativo simples para controle do dispositivo v
 ## Reprodução do Projeto (Passo a passo)
 - 1. Em "Montagem Ethernet.png", neste mesmo repositório, está ilustrado o modo que foi feita a montagem das conexões entre os módulos e o arduíno. Essa montagem foi colocada dentro do relé, entretanto, o computador serviu como fonte de alimentação para o arduíno. Esse pequeno detalhe pode ser resolvido utilizando uma fonte de alimenação para arduíno apropriada.
 - 2. Com a montagem de hardware feita, é necessário realizar o carregamento do código no Arduino, o qual está presente neste repositório. Nesse código está configurado qual o IP que será utilizado pela rede para que seja realizado uma conexão estável com o celular, do qual realizará o controle de energia.
-- 3.
+- 3. 
 - X. Utilizando o MIT App Inventor foi desenvolvido uma aplicação android de interface simples para ligar e desligar a energia elétrica do dispositivo, além de mostrar o status (LIGADO ou DESLIGADO) - Tanto a parte de Designer, quanto de Blocks do App Inventor necessárias para reproduzir a aplicação estão contidas nas imagens "App Inventor 1" e "App Inventor 2" contidas nesse mesmo repositório.
+- X. Para ocorrer conexão correta entre celular e arduino, tanto o notebook quando o celular devem estar conectados em um roteador de um dispositivo externo, para que o aplicativo mande a informação que será recebida e executada pelo arduino. 
 
 ## Referências
 - 1- https://www.robocore.net/tutoriais/modulo-rele-arduino - Módulo Relé Arduino
